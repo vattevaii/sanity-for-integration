@@ -6,6 +6,6 @@ export default defineCliConfig({
     dataset: 'production'
   },
   project:{
-    basePath: 'sanity'
+    basePath: '/sanity'
   }
 })
